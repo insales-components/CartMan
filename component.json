@@ -1,0 +1,21 @@
+{
+  "name": "CartMan",
+  "version": "1.0.0",
+  "description": "Компонент для работы с корзиной",
+  "author": "LiquidHub.ru",
+  "type": "plugin",
+  "homepage": "https://github.com/insales-components/CartMan",
+  "plugins": [
+    {
+      "name": "CartMan",
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/CartMan@0.2.9/dist/CartMan.js"]
+    }
+  ],
+  "props": {
+    "plugins": false,
+    "cellsio": false,
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
