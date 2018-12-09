@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "CartMan",
-      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/CartMan@0.2.9/dist/CartMan.js"]
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/CartMan@0.2.10/dist/CartMan.js"]
     }
   ],
   "props": {
